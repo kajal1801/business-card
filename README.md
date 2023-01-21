@@ -1,4 +1,4 @@
-# Bueiness Card
+# Business Card
 
 Quick start:
 
